@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFo0e4MFw4/2fIlAzNlO7EwFtmU6U_99A/edit?utm_content=DAFo0e4MFw4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+utm_content=DAFo0e4MFw4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 <h1 align="center">Hi 👋, I'm Ayush Talan</h1>
 <h3 align="center">A passionate Competitive Programmer.</h3>
