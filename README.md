@@ -102,7 +102,6 @@ I'm always open to discussing **new projects**, **innovative ideas**, or **partn
 <div align="center">
   
 [![Email](https://img.shields.io/badge/iamayushtalan@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamayushtalan@gmail.com)
-[![Phone](https://img.shields.io/badge/%2B91%208448668532-%23007ACC?style=for-the-badge&logo=telegram&logoColor=white)](tel:+918448668532)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtalan)
 
 </div>
