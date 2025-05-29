@@ -22,7 +22,7 @@ Computer Science undergrad at **JIIT Noida** passionate about full-stack develop
 ## 💻 Projects  
 
 ### 🐾 PetBuddy - AI-Powered Pet Care Platform  
-[![Live Demo](https://img.shields.io/badge/%F0%9F%94%97-LIVE%20DEMO-success?style=flat)](https://petbuddy.app)
+
 [![GitHub](https://img.shields.io/badge/%F0%9F%93%81-GITHUB%20REPO-lightgrey?style=flat)](https://github.com/companionconnect-pvt/petbuddy)  
 > **🏆 Top 3/300 teams @ RIDE Hack 24 | Pre-seed funded (₹5L)**  
 - Architected platform with **ReactJS + Tailwind CSS** and real-time chat/video calls via **Socket.io**  
