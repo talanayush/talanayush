@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtalan)
 [![Codeforces](https://img.shields.io/badge/-CODEFORCES-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AyushTalan)
 [![Email](https://img.shields.io/badge/-EMAIL%20ME-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamayushtalan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/%F0%9F%93%88-MY%20PORTFOLIO-9cf?style=for-the-badge)](https://ayushtalan.github.io)
 
 ---
 
